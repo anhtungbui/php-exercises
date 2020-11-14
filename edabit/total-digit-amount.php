@@ -22,4 +22,5 @@ function findDigitAmount($num) {
   return strlen(strval($num));
   // return strlen((string)$num);
 }
+
 ?>
